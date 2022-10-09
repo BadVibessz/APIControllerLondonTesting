@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CkBgsbNkAcD2FPAtW0A0v2nYTKM/V0wTBaQZiNbsniandamMN3VcLHI851VHPpQgCmt7OmnYtF1GaunK9nZSwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\LondonTestingLW3\\ScrumBoard.DAL\\ScrumBoard.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.caching.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.3.22175.4\\microsoft.extensions.caching.memory.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.3.22175.4\\microsoft.extensions.options.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.3.22175.4\\microsoft.extensions.primitives.7.0.0-preview.3.22175.4.nupkg.sha512"
+  ],
+  "logs": []
+}
